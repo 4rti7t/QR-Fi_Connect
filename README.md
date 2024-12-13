@@ -27,8 +27,8 @@ Before you start, ensure you have the following installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/QR-Fi-Connect.git
-   cd QR-Fi-Connect
+   git clone https://github.com/4rti7t/QR-Fi_Connect.git
+   cd QR-Fi_Connect
    ```
 
 2. **Install Dependencies:**
@@ -38,7 +38,7 @@ Before you start, ensure you have the following installed:
 
 3. **Run the Application:**
    ```bash
-   python qrfi_connect.py
+   python QR-FI_Connect.py
    ```
 
 4. **Access the Web App:**
@@ -112,8 +112,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 For support or inquiries, please contact:
 
-- **Email:** yourname@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Email:** arti7tofficial@gmai.com
+- **GitHub:** [4rti7t](https://github.com/4rti7t)
 
 ---
 
