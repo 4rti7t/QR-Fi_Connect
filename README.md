@@ -87,7 +87,7 @@ QR-Fi-Connect/
 
 
 ### 2. **Generated QR Code:**
-![QR Code Screenshot](![wifi_qr](https://github.com/user-attachments/assets/6b5b7a77-bca1-462c-81e2-bbadab922656)
+![wifi_qr](https://github.com/user-attachments/assets/6b5b7a77-bca1-462c-81e2-bbadab922656)
 
 
 ---
