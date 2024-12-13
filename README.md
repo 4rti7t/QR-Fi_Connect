@@ -83,10 +83,12 @@ QR-Fi-Connect/
 ## 🎨 Screenshots
 
 ### 1. **Homepage:**
-![Homepage Screenshot](https://via.placeholder.com/800x400?text=Homepage)
+![Homepage Screenshot](![QR-FI_Connect](https://github.com/user-attachments/assets/acb23e0b-8b57-4034-b075-dd9c0d3de05f)
+
 
 ### 2. **Generated QR Code:**
-![QR Code Screenshot](https://via.placeholder.com/800x400?text=QR+Code)
+![QR Code Screenshot](![wifi_qr](https://github.com/user-attachments/assets/6b5b7a77-bca1-462c-81e2-bbadab922656)
+
 
 ---
 
